@@ -32,7 +32,8 @@ Login page for indentification as student or teacher.
 
 2.IDE (eg. pycharm,VS code)
 
-How to run
+## How to run
+
 1.Open IDE.
 
 2.Make sure you have the text files downloaded in the same directory as the School Management.py.
